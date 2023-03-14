@@ -10,3 +10,7 @@ Members;
 
 Instructor: 
 - Ugur CORUH, [@ucoruh](https://github.com/ucoruh) 
+
+## About
+
+Some algorithms in C#.
